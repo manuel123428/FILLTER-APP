@@ -1,0 +1,9 @@
+
+.btn-success:hover{
+    background-color: red;
+}
+canvas{
+    animation-name: exampale;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
